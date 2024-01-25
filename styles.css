@@ -1,0 +1,21 @@
+html{font-family: Georgia, serif;}
+
+
+.main {
+    margin: auto;
+    width: 50%; 
+    padding: 20px;
+    text-align: center;
+      
+    }
+h1,h2{ 
+    color: #943634;
+    font-family: Impact, sans-serif; ;
+}
+
+p{
+    width: 60%;
+    line-height: 17px;
+    margin: auto;
+    text-align: center;
+}
